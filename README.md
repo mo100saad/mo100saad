@@ -2,6 +2,7 @@
 <p>
   
 ## Avid learner, student and tech enthusiast currently studying at Carleton University.
+#
   </p>
   
 ---
