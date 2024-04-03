@@ -1,5 +1,10 @@
-# **_Welcome, my name's Mo and this is my profile repository!_**<img src="https://github.com/mo100saad/mo100saad/assets/59495355/a3ceeadf-6cae-4fce-8a26-6c5812aeba1c" width="150" height="150" align="left">
 <p>
+  
+# **_Welcome, my name's Mo and this is my profile repository!_**<img src="https://github.com/mo100saad/mo100saad/assets/59495355/a3ceeadf-6cae-4fce-8a26-6c5812aeba1c" width="150" height="150" align="left">
+
+</p>
+<p>
+  
 ## Avid learner, student and tech enthusiast currently studying at Carleton University.
   </p>
   
