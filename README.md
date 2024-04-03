@@ -4,6 +4,7 @@
 
 ---
 
+<br>
 
 ### Projects Coming Soon! Next project coming in **_summer_** 2024!
 <br><br>
