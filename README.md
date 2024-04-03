@@ -5,8 +5,7 @@
   </p>
   
 ---
-
-## Avid Programmer and Tech Enthusiast
+<br>
 
 ### Projects Coming Soon! Next project coming in **_summer_** 2024!
 <br><br>
