@@ -7,7 +7,6 @@
 ---
 <br>
 
-### More Projects Coming Soon! Next project coming in **_summer_** 2024!
 <br><br>
 <p align="center">
 <img src="https://github.com/mo100saad/mo100saad/assets/15622146/0c4ed428-9d71-47b5-a9fe-a369a943b575" width="300" height="300">
