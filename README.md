@@ -26,20 +26,25 @@ I'm a passionate Computer Science student with expertise in AI/ML, dedicated to 
 
 <table>
   <tr>
-    <td align="center" width="33%">
+    <td align="center" width="25%">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50"/><br />
       <b>UFC Fight Predictor</b><br />
       <i>AI-powered fight outcome prediction</i>
     </td>
-    <td align="center" width="33%">
+    <td align="center" width="25%">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50"/><br />
       <b>P2P Networking System</b><br />
       <i>Multi-threaded architecture</i>
     </td>
-    <td align="center" width="33%">
+    <td align="center" width="25%">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="50" height="50"/><br />
       <b>Dealer Connect</b><br />
       <i>EV Charger Booking App</i>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="50" height="50"/><br />
+      <b>libvault</b><br />
+      <i>Community Bookshelf</i>
     </td>
   </tr>
 </table>
