@@ -104,7 +104,7 @@ I'm a passionate Computer Science student with expertise in AI/ML, dedicated to 
 - Custom data collection pipeline for real-time updates
 - Responsive design for mobile and desktop platforms
 
-#### [View Project](https://github.com/mo100saad/ufc-predictor)
+#### [View Project](https://github.com/mo100saad/ufc-predictor) | [Live Site](https://ufcpredictor.vercel.app/)
 </details>
 
 <details>
